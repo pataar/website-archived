@@ -1,10 +1,9 @@
 # Site settings
 title: Pieter Willekens
-email: info@pieterwillekens.nl
 description: > # this means to ignore newlines until "baseurl:"
   Personal site || portfolio of Pieter Willekens.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://pieterwillekens.nl" # the base hostname & protocol for your site
+url: "/" # the base hostname & protocol for your site
 twitter_username: 1pieter
 github_username:  pataar
 trakt_username:  pataar

@@ -1,0 +1,24 @@
+---
+---
+@import 'vars';
+@import 'mixins';
+
+
+nav {
+	li.disabled a {
+		opacity:.3;
+	}
+}
+
+#titleBar .toggle:before{
+	font-family: FontAwesome;
+}
+
+body #titleBar,
+body #titleBar .toggle:before{
+	background-image: url('../images/banner.jpg');
+	background-position: 0 center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}

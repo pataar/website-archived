@@ -1,9 +1,0 @@
-diff a/css/custom.scss b/css/custom.scss	(rejected hunks)
-@@ -0,6 +0,7 @@
- body #titleBar,
- body #titleBar .toggle:before{
- 	background-image: url('../images/banner.jpg');
-+	background-position: center -320px;
- 	background-repeat: no-repeat;
- 	background-size: cover;
- 	background-attachment: fixed;

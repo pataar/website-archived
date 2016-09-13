@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/pataar
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://pieterwillekens.nl
+  * I am pataar (https://keybase.io/pataar) on keybase.
+  * I have a public key ASDWFC1nrCyPwgh4Hq9gW5JLyZeyN-Doq2_bxizwlgX5Wgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010119965fbb7821413dbcda66773b5e929297555d3dfef73aca3ab9d577c358b9ea0a",
+            "host": "keybase.io",
+            "kid": "0120d6142d67ac2c8fc208781eaf605b924bc997b237e0e8ab6fdbc62cf09605f95a0a",
+            "uid": "27abf25d48494e8a9f6d94503b220f19",
+            "username": "pataar"
+        },
+        "service": {
+            "hostname": "pieterwillekens.nl",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.17"
+    },
+    "ctime": 1473760573,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1473760524,
+        "hash": "0dff9e4a5f240d4932cf0754cf4a6b4b16170f8e9da4431ef15def8e2b83c1d847578ae344a0a7b68108c54e8ccc122f0dea797fc7399848403f814a24e7be5d",
+        "seqno": 632931
+    },
+    "prev": "8afcba76f866ca2ed80e2f4a376597751c62341798f43acc8062458ea268d21c",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1hQtZ6wsj8IIeB6vYFuSS8mXsjfg6Ktv28Ys8JYF+VoKp3BheWxvYWTFAvh7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMTk5NjVmYmI3ODIxNDEzZGJjZGE2Njc3M2I1ZTkyOTI5NzU1NWQzZGZlZjczYWNhM2FiOWQ1NzdjMzU4YjllYTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZDYxNDJkNjdhYzJjOGZjMjA4NzgxZWFmNjA1YjkyNGJjOTk3YjIzN2UwZThhYjZmZGJjNjJjZjA5NjA1Zjk1YTBhIiwidWlkIjoiMjdhYmYyNWQ0ODQ5NGU4YTlmNmQ5NDUwM2IyMjBmMTkiLCJ1c2VybmFtZSI6InBhdGFhciJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoicGlldGVyd2lsbGVrZW5zLm5sIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNyJ9LCJjdGltZSI6MTQ3Mzc2MDU3MywiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDczNzYwNTI0LCJoYXNoIjoiMGRmZjllNGE1ZjI0MGQ0OTMyY2YwNzU0Y2Y0YTZiNGIxNjE3MGY4ZTlkYTQ0MzFlZjE1ZGVmOGUyYjgzYzFkODQ3NTc4YWUzNDRhMGE3YjY4MTA4YzU0ZThjY2MxMjJmMGRlYTc5N2ZjNzM5OTg0ODQwM2Y4MTRhMjRlN2JlNWQiLCJzZXFubyI6NjMyOTMxfSwicHJldiI6IjhhZmNiYTc2Zjg2NmNhMmVkODBlMmY0YTM3NjU5Nzc1MWM2MjM0MTc5OGY0M2FjYzgwNjI0NThlYTI2OGQyMWMiLCJzZXFubyI6MTAsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAXjU5y8qY9VxXohme4UfEIixG74eCWlTEyEZozf7QSDcVhbZ9/xSNqnq1k6K/nbMDTdmSldlt0aSPGR1FQzrCCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHpqEa35fIPD5GHTZzJUahxA1rwkxyCQquCSM52o8170o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pataar
+
+==================================================================

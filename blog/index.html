@@ -8,6 +8,7 @@ layout: default
             <article>
                 <header>
                     <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+                    <h3>{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.categories %} • {{ post.categories }}{% endif %}</h3>
                 </header>
                 <section class="post-content">
                     {{ post.excerpt }}

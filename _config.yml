@@ -16,3 +16,7 @@ markdown: kramdown
 sass:
   sass_dir: _sass/
   style: :compressed
+  sourcemaps: true
+
+gems:
+  - jekyll-babel

@@ -2,7 +2,7 @@
 ---
 @import 'vars';
 @import 'mixins';
-
+@import 'base';
 
 nav {
 	li.disabled a {
@@ -21,4 +21,18 @@ body #titleBar .toggle:before{
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
+}
+
+
+article {
+
+	h2 {
+		margin-bottom:0;
+	}
+	h3 {
+		font-size:17px;
+		opacity:.7;
+		text-transform: uppercase;
+		margin-bottom:20px;
+	}
 }

@@ -12,6 +12,7 @@ github_username:  pataar
 
 # Build settings
 markdown: kramdown
+excerpt_separator: <!--more-->
 
 sass:
   sass_dir: _sass/

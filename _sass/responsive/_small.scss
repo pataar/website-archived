@@ -81,7 +81,17 @@ header {
 
 /* Header */
 
+#sidePanel {
+	#header {
+		background:#012b4c;
+		display:block;
+	}
+}
+
+
 #header {
+	background:white;
+	display: none;
 	> header {
 		padding: 2em;
 

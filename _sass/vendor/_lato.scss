@@ -4,6 +4,12 @@
 	font-style: normal;
 	font-weight: 400;
 	src: url("../fonts/lato/Lato-Regular.ttf") format('truetype');
+}/* latin */
+@font-face {
+	font-family: 'Lato';
+	font-style: normal;
+	font-weight: normal;
+	src: url("../fonts/lato/Lato-Regular.ttf") format('truetype');
 }
 /* latin */
 @font-face {
@@ -16,6 +22,6 @@
 @font-face {
 	font-family: 'Lato';
 	font-style: italic;
-	font-weight: 400;
+	font-weight: normal;
 	src:  url(../fonts/lato/Lato-BlackItalic.ttf) format('truetype');
 }

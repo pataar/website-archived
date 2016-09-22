@@ -1,7 +1,7 @@
 # Site settings
 title: Pieter Willekens
 description: > # this means to ignore newlines until "baseurl:"
-  Personal site || portfolio of Pieter Willekens.
+  A website about a random developer from The Netherlands.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "/" # the base hostname & protocol for your site
 twitter_username: 1pieter

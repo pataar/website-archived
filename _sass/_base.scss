@@ -156,11 +156,11 @@ section, article {
 
 header {
 	#header & {
-		background-image: url('../images/banner.jpg');
-		background-position:  left -40px;
-		background-repeat: no-repeat;
-		background-size: 100% auto;
-		background-color: #012B4C;
+		background-image:      url('../images/banner.jpg');
+		background-position:   left -40px;
+		background-repeat:     no-repeat;
+		background-size:       100% auto;
+		background-color:      #012b4c;
 		background-attachment: fixed;
 	}
 	p {
@@ -537,7 +537,7 @@ ul {
 		list-style:   none;
 		padding-left: 0;
 
-		li {
+		td {
 			display: inline-block;
 			padding: 0 0.5em 0 0.5em;
 
@@ -904,12 +904,22 @@ input[type="button"],
 		position: absolute;
 		width:    100%;
 
-		.icons {
-			margin: 0;
+		border-top: rgba(255,255,255,.2) 1px solid;
 
-			li {
-				a {
-					color: $color-header-fg-light;
+
+		.icons {
+			margin: 0 auto;
+			width:70%;
+			tr {
+				background: none;
+				border:0;
+				td {
+					padding:0;
+					a {
+						padding:5px 15px;
+						font-size:22px;
+						color: $color-header-fg-light;
+					}
 				}
 			}
 		}
@@ -980,17 +990,17 @@ input[type="button"],
 
 #one {
 	&:before {
-		background-image: url('../images/banner.jpg');
-		background-position:  left -40px;
-		background-repeat: no-repeat;
-		background-size: 100% auto;
-		background-color: #012B4C;
+		background-image:      url('../images/banner.jpg');
+		background-position:   left -40px;
+		background-repeat:     no-repeat;
+		background-size:       100% auto;
+		background-color:      #012b4c;
 		background-attachment: fixed;
 
-		content:             '';
-		display:             block;
-		height:              15em;
-		width:               100%;
+		content:               '';
+		display:               block;
+		height:                15em;
+		width:                 100%;
 	}
 }
 

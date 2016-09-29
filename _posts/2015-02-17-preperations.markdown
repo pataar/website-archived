@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Voorbereidingen"
-date:   2015-09-21 22:13:00
+date:   2016-09-21 22:13:00
 categories: "Australia"
 status: draft
 published: true
@@ -9,7 +9,7 @@ published: true
 Met nog maar anderhalve week te gaan komt het avontuur toch dicht in de buurt.
 
 <!--more-->
-Na maanden uit kijken is het eindelijk bijna zo ver. Volgende week zaterdag vlieg ik om half 9 naar Dubai. Het is nog allemaal moeilijk te bevatten om straks in je eentje aan de andere kant van de wereld rond te lopen.
+Na maanden uit kijken is het eindelijk bijna zo ver. Volgende week zaterdag vlieg ik om 10 voor negen naar Dubai. Het is nog allemaal moeilijk te bevatten om straks in je eentje aan de andere kant van de wereld rond te lopen.
 
 Toch heb ik er veel zin in, heel erg benieuwd naar het land, de mensen en de natuur. Alhoewel het voorbereiden zelf ook al een heel avontuur is.
 Wat moet je meenemen? Is er straks niet iets wat nodig is maar nog in Nederland ligt? Daarom ben ik toch wel aan het rondvragen geslagen.

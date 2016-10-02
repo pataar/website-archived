@@ -1,13 +1,11 @@
 ---
-layout: post 
-category: 
-title: "Ik vertrek"
-tagline: 
-tags : [] 
-published: false
-draft: true
+layout: post
+title:  "Ik vertrek"
+date:   2016-10-02 15:16
+categories: "Australia"
+status: draft
+published: true
 ---
-
 
 Het is zo ver, vandaag gaat het beginnen. Redelijk fit en vroeg opgestaan om alles in te pakken. Eigenlijk is het helemaal niet zo'n slim plan om alles in te gaan pakken op de dag van vertrek. Zeker niet als je zo vergeetachtig bent als ik. Maar door vele internettips was de kans om iets te vergeten toch een stuk kleiner geworden. Had ook meteen maar een moneybelt aangeschaft. (Geniale uitvinding)
 

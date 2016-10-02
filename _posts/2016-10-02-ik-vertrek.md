@@ -7,7 +7,9 @@ status: draft
 published: true
 ---
 
-Het is zo ver, vandaag gaat het beginnen. Redelijk fit en vroeg opgestaan om alles in te pakken. Eigenlijk is het helemaal niet zo'n slim plan om alles in te gaan pakken op de dag van vertrek. Zeker niet als je zo vergeetachtig bent als ik. Maar door vele internettips was de kans om iets te vergeten toch een stuk kleiner geworden. Had ook meteen maar een moneybelt aangeschaft. (Geniale uitvinding)
+Het is zo ver, vandaag gaat het beginnen.
+<!--more-->
+Redelijk fit en vroeg opgestaan om alles in te pakken. Eigenlijk is het helemaal niet zo'n slim plan om alles in te gaan pakken op de dag van vertrek. Zeker niet als je zo vergeetachtig bent als ik. Maar door vele internettips was de kans om iets te vergeten toch een stuk kleiner geworden. Had ook meteen maar een moneybelt aangeschaft. (Geniale uitvinding)
 
 
 Om half 5 zouden ons pap en mam me op komen halen. Jurgen blijft aankomende tijd in de Rooie wonen, dus moest mijn kamer ook even snel poetsen. 

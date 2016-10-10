@@ -4,7 +4,7 @@ title:  "Fraser Island"
 date:   2016-10-10 21:45
 categories: "Australia"
 status: draft
-published: false
+published: true
 ---
 
 Een zandeiland van 120km lang waar een regenwoud op groeit. 
@@ -27,4 +27,6 @@ Na tijdje ronddwalen op Fraser kwam ik erachter dat een gast telkens nieuw bier 
 
 Ik ben kort daarna ook nog met een klein vliegtuigje over het eiland mee gevlogen. Er waren een aantal meren te zien die niet te bereiken waren. Ook een aantal walvissen gespot, super vet!
 
+Na een coole dag op het eiland en een mooie avond beerpong in de bar gingen we mooi naar ons nest voor de volgende dag. Om 7:45 stond Jarred klaar met zijn monsterbus om weer op pad te gaan. Helaas werd onze kamer pas om 7:30 wakker. Dus haastend en onhandig de ochtend te zijn begonnen vlogen we weer door de jungle voor onze laatste paar stops. Dit maal een soort woestijn in het midden van het eiland. Super cool al die klimaten op het eiland, heel uniek. Daarna ook nog een meer bezocht waar ik voor het eerst heb gepaddleboard, best cool. Het ging ook nog eens verrassend goed. Wel het meeste gevallen van de groep, maar dat was te verwachten. 
 
+En zoals de avond naderde was dat het eind van het avontuur op Fraser. Echt heel gaaf op meegemaakt te mogen hebben. Mooi met de Ferry terug naar het vaste land met de normale wegen en lekker 12 uurtjes in de bus naar Airlie Beach.

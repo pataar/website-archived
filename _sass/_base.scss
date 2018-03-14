@@ -513,9 +513,15 @@ ul {
 			padding:   12px 0 0 60px;
 			position:  relative;
 			width:     48%;
-			font-size: 22px;
+			font-size: 20px;
 
-			& i {
+			&.category {
+				padding-left:0;
+				font-size: 22px;
+				
+			}
+
+			 i {
 				background:    $color-accent-bg;
 				border-radius: 100%;
 				color:         $color-accent-fg-bold;
@@ -527,7 +533,7 @@ ul {
 				text-align:    center;
 				top:           0;
 				width:         50px;
-				font-size:     35px;
+				font-size:     25px;
 			}
 		}
 	}

@@ -1,4 +1,10 @@
-_site/
-.sass-cache/
-.idea/
-vendor/
+# Project dependencies
+.cache
+node_modules
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Build directory
+/public
+.DS_Store

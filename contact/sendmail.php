@@ -12,7 +12,7 @@ if ($_POST && !$_POST['garbage']) {
 	$message = htmlspecialchars($_POST['subject'] . ' <br /> <br />' . $_POST['message']) . '   ' . 'ip: '.$_SERVER['REMOTE_ADDR'];;
 	$headers = "From: $email" . "\r\n" . "Reply-To: $email";
 
-	if(mail('pietering1@gmail.com', "$name wil contact met je opnemen.", $message, $headers)){
+	if(mail('pataar@pm.me', "$name wil contact met je opnemen.", $message, $headers)){
 		$_SESSION['form_status'] = 1;
 	}else{
 		$_SESSION['form_status'] = -1;

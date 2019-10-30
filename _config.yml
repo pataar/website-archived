@@ -19,5 +19,5 @@ sass:
   style: :compressed
   sourcemaps: true
 
-gems:
+plugins:
   - jekyll-babel

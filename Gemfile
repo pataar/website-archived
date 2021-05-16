@@ -1,4 +1,4 @@
 source 'http://rubygems.org'
-gem 'jekyll'
+gem 'jekyll', '>= 3.9.0'
 gem 'jekyll-babel'
-gem 'github-pages'
+gem 'github-pages', '>= 214'
